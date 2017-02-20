@@ -6,12 +6,9 @@ import android.graphics.Camera;
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
-import android.os.SystemClock;
-import android.util.DisplayMetrics;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
-import javax.xml.transform.Transformer;
 
 /**
  * Created by utsav on 12/24/2016.
